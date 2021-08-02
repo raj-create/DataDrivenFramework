@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lazada.testcases."
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.147">
+  <properties />
+  
+  
+            <testcase name="SignIn" time="0.147" classname="com.lazada.testcases.SignInTest_002" />
+      
+</testsuite>

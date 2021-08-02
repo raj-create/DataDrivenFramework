@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [lazada Data-driven project]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="com.lazada.testcases.(failed)">
+    <classes>
+      <class name="com.lazada.testcases.SignInTest_002">
+        <methods>
+          <include name="SignIn" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.lazada.testcases.SignInTest_002 -->
+    </classes>
+  </test> <!-- com.lazada.testcases.(failed) -->
+</suite> <!-- Failed suite [lazada Data-driven project] -->
